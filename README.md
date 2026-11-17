@@ -6,9 +6,10 @@ forgetting that Discord is supposed to be fun.
 
 ## Invite Stupid Lynx
 
-Ready to let a lynx loose in your server?
+Ready to let a lynx loose in your server? 
 
-[Invite Stupid Lynx through Top.gg](TBA)
+[Click this Discord provided link!](https://discord.com/oauth2/authorize?client_id=1560440590959648899)
+[Top.gg link is pending](TBA)
 
 After inviting the bot, use `/server setup`. You will get a private menu where you can choose the
 features you want, skip the ones you do not need, select your moderator role, and optionally select
